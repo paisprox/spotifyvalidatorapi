@@ -1,4 +1,6 @@
 <?php
+
+// Coded with love by Faiz Ainurrofiq
 set_time_limit(0);
 header("Content-type: application/json");
 
